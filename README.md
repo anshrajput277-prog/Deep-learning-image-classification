@@ -58,4 +58,4 @@
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Aryan-rtp/deep-learning-image-classification.git
+git clone https://github.com/anshrajput277/deep-learning-image-classification.git
